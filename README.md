@@ -10,6 +10,8 @@ A multi-threaded TCP/UDP port scanner built in Python with a Tkinter GUI.
 
 ## Screenshot
 <!-- Add a screenshot here after taking one -->
+<img width="642" height="570" alt="image" src="https://github.com/user-attachments/assets/837b6ede-e1bb-4cbe-807c-29833260fad9" />
+
 
 ## Requirements
 - Python 3.8+
